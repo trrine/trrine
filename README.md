@@ -28,4 +28,5 @@
 
 - 📫 How to reach me: ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trrine&layout=compact)](https://github.com/trrine)
 -->
