@@ -3,7 +3,7 @@
 
 ## 🔭 I’m currently working on
 - A Flask web application to streamline the process of marking assignments
-- My portfolio website
+- [My portfolio website](https://trrine.github.io/)
 
 ## 🌱 I’m currently learning
 - React
