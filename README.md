@@ -2,7 +2,7 @@
 <h2 align="center">I'm an anspiring software engineer.</h2>
 
 ## 🔭 I’m currently working on
-- A [Django web application](https://github.com/trrine/marking_assistant) to streamline the process of marking assignments
+- [A Django web application](https://github.com/trrine/marking_assistant) to streamline the process of marking assignments
 - [My portfolio website](https://trrine.github.io/)
 
 ## 🌱 I’m currently learning
