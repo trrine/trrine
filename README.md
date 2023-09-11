@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Trine 👋</h2>
+<h3 align="center">Hi, I'm Trine 👋</h3>
 
 ## 🔭 I’m currently working on
 - [A Django web application](https://github.com/trrine/marking_assistant) to streamline the process of marking assignments
