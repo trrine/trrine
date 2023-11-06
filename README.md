@@ -1,4 +1,5 @@
 <h3 align="center">Hi, I'm Trine 👋</h3>
+<h2 align="center">You can check out my portfolio website [here](https://trrine.github.io/)</h2>
 
 ## 🔭 I’m currently working on
 - [A Django web application](https://github.com/trrine/marking_assistant) to streamline the process of writing feedback for assignments
