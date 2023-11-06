@@ -1,9 +1,8 @@
 <h3 align="center">Hi, I'm Trine 👋</h3>
-<h5 align="center">You can check out my portfolio website <a href="https://trrine.github.io/">here.</a></h5>
+<p align="center">You can check out my portfolio website <a href="https://trrine.github.io/">here.</a></p>
 
 ## 🔭 I’m currently working on
 - [A Django web application](https://github.com/trrine/marking_assistant) to streamline the process of writing feedback for assignments
-- [My portfolio website](https://trrine.github.io/)
 
 ## 🌱 I’m currently learning
 - React
