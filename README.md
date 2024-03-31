@@ -5,7 +5,6 @@
 - [A Django web application](https://github.com/trrine/marking_assistant) to streamline the process of writing feedback for assignments
 
 ## 🌱 I’m currently learning
-- React
 - Docker
 
 ## 🖥️ Technical skills
