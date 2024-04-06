@@ -3,7 +3,7 @@
 
 ## 🔭 I’m currently working on
 - [A Django web application](https://github.com/trrine/marking_assistant) to streamline the process of writing feedback for assignments
-- A Chrome extension to display live Reddit commentary while streaming TV shows
+- [A Chrome extension[(https://github.com/trrine/live-reddit-commentary) to display live Reddit commentary while streaming TV shows
 
 ## 🌱 I’m currently learning
 - Docker
